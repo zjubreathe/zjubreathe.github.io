@@ -1,0 +1,8 @@
+site_name: per aspera ad astra
+theme:
+  name: material
+nav:
+  - 主页: index.md
+  - 介绍: about.md
+  - 编程语言:
+      - python: tutorial/python.md
